@@ -1,4 +1,4 @@
-from fair_adaboost import *
+from fb_adaboost import *
 
 
 def main():
